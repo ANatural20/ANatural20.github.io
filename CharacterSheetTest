@@ -11,7 +11,7 @@
     <style>
       /* Styling for the character sheet */
       body {
-        font-family: Arial, sans-serif;
+        font-family: Cairo, sans-serif;
         font-size: 14px;
         line-height: 1.5;
         color: #333;
